@@ -6,7 +6,7 @@
   "require": {
     "php": "^8.5",
     "livewire/livewire": "^4.4.8",
-    "liberusoftware/module-maintenance-inspections": "0.1.0"
+    "liberusoftware/module-maintenance-inspections": "^0.1.0"
   },
   "autoload": {
     "psr-4": {
@@ -18,7 +18,7 @@
       "name": "module-maintenance-inspections-livewire"
     }
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "config": {
     "allow-plugins": {
       "pestphp/pest-plugin": true
